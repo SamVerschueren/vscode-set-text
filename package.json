@@ -1,6 +1,6 @@
 {
   "name": "vscode-set-text",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An easy-to-use VS Code `#setText()` method",
   "license": "MIT",
   "repository": "SamVerschueren/vscode-set-text",
