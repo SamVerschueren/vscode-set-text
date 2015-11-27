@@ -23,6 +23,8 @@ setText('new text');
 
 ### setText(text, [editor])
 
+Returns a promise.
+
 #### text
 
 Type: `string`
